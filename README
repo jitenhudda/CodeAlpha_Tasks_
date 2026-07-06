@@ -1,1 +1,187 @@
+# CodeAlpha Machine Learning Internship Projects
 
+This repository contains all projects completed during my **CodeAlpha Machine Learning Internship**. Each project focuses on solving real-world problems using Machine Learning, Data Analysis, and interactive web applications built with Python.
+
+The objective of this repository is to demonstrate practical implementation of the complete Machine Learning workflow, including data preprocessing, feature engineering, model training, evaluation, prediction, and deployment through professional Streamlit dashboards.
+
+---
+
+## Repository Structure
+
+```
+CodeAlpha_Tasks/
+│
+├── CodeAlpha_CreditLens/
+│   ├── Credit risk prediction project
+│   └── Streamlit dashboard
+│
+├── CodeAlpha_HealthSense/
+│   ├── Multi-disease prediction system
+│   └── Streamlit dashboard
+│
+└── README.md
+```
+
+---
+
+## Projects
+
+### 1. CreditLens
+
+An end-to-end Machine Learning application for predicting customer loan default risk.
+
+**Highlights**
+
+- Automated data preprocessing
+- Feature engineering pipeline
+- Multiple ML algorithms
+- Best model selection
+- Probability-based predictions
+- Interactive Streamlit dashboard
+- Production-ready workflow
+
+---
+
+### 2. HealthSense AI
+
+A Machine Learning based healthcare application capable of predicting multiple diseases from patient information.
+
+**Highlights**
+
+- Multi-disease prediction
+- Automatic dataset detection
+- Automated preprocessing
+- Separate model for each disease
+- Patient-friendly prediction workflow
+- Doctor review system
+- Interactive Streamlit dashboard
+
+---
+
+## Tech Stack
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- Streamlit
+- Plotly
+- Joblib
+
+---
+
+## Machine Learning Workflow
+
+```text
+                    DATASET
+                       │
+                       ▼
+              Data Preprocessing
+                       │
+                       ▼
+            Feature Engineering
+                       │
+                       ▼
+              Model Training
+                       │
+                       ▼
+             Model Evaluation
+                       │
+                       ▼
+             Best Model Saved
+                       │
+                       ▼
+         Streamlit Web Application
+                       │
+                       ▼
+              User Prediction
+```
+
+---
+
+## Repository Features
+
+- End-to-end Machine Learning projects
+- Clean project structure
+- Automated training pipelines
+- Interactive dashboards
+- Real-world datasets
+- Production-oriented implementation
+- Professional coding practices
+- Fast prediction workflow
+
+---
+
+## Skills Demonstrated
+
+- Machine Learning
+- Data Preprocessing
+- Feature Engineering
+- Model Evaluation
+- Classification Algorithms
+- Data Visualization
+- Dashboard Development
+- Python Programming
+- Streamlit
+- Model Deployment
+
+---
+
+## Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/jitenhudda/CodeAlpha_Tasks.git
+```
+
+Move into the repository
+
+```bash
+cd CodeAlpha_Tasks
+```
+
+Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## Running Individual Projects
+
+Navigate to any project folder and follow its instructions to train models and launch the Streamlit application.
+
+Example:
+
+```bash
+cd CodeAlpha_HealthSense
+streamlit run app.py
+```
+
+or
+
+```bash
+cd CodeAlpha_CreditLens
+streamlit run app.py
+```
+
+---
+
+## Internship
+
+These projects were completed as part of the **CodeAlpha Machine Learning Internship**, focusing on building practical, production-oriented Machine Learning applications.
+
+---
+
+## Author
+
+**Jiten Hudda**
+
+GitHub: https://github.com/jitenhudda
+
+LinkedIn: https://www.linkedin.com/in/jiten-hudda/
+
+---
