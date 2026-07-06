@@ -130,16 +130,10 @@ A Machine Learning based healthcare application capable of predicting multiple d
 
 ## Installation
 
-Clone the repository
+Download the repository
 
 ```bash
-git clone https://github.com/jitenhudda/CodeAlpha_Tasks.git
-```
-
-Move into the repository
-
-```bash
-cd CodeAlpha_Tasks
+cd CodeAlpha_Tasks_
 ```
 
 Install dependencies
@@ -179,9 +173,3 @@ These projects were completed as part of the **CodeAlpha Machine Learning Intern
 ## Author
 
 **Jiten Hudda**
-
-GitHub: https://github.com/jitenhudda
-
-LinkedIn: https://www.linkedin.com/in/jiten-hudda/
-
----
